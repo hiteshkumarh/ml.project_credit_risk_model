@@ -116,33 +116,4 @@ The backend prepares a dataframe → scales features → predicts → outputs re
 
 ---
 
-## 📤 Deployment (Optional)
 
-To deploy on **Streamlit Cloud**:
-
-1. Push repo to GitHub
-2. Go to: [https://share.streamlit.io](https://share.streamlit.io)
-3. Connect your repo
-4. Select `main.py` as entry point
-5. Done 🎉
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. Open an issue to discuss major changes.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-If you want, I can also generate:
-✅ Project banner
-✅ GitHub badges
-✅ Demo GIF
-✅ A polished description for your portfolio
-Just tell me!
